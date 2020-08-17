@@ -1,25 +1,25 @@
 {
-  "notes":[
-    {
-    "title":"Note 1",
-    "details": "no details"
-    "id": "1",
-    "time": "20/10/2020 17:50",
-    "done": false
-    },
-     {
-    "title":"Note 2",
-    "details": "no details"
-    "id": "2",
-    "time": "20/10/2020 17:50",
-    "done": false
-    },
-     {
-    "title":"Note 3",
-    "details": "no details"
-    "id": "3",
-    "time": "20/10/2020 17:50",
-    "done": false
-    }
+    "notes": [
+        {
+            "title": "Note 1",
+            "details": "no details",
+            "id": "1",
+            "time": "20/10/2020 17:50",
+            "done": false
+        },
+        {
+            "title": "Note 2",
+            "details": "no details",
+            "id": "2",
+            "time": "20/10/2020 17:50",
+            "done": false
+        },
+        {
+            "title": "Note 3",
+            "details": "no details",
+            "id": "3",
+            "time": "20/10/2020 17:50",
+            "done": false
+        }
     ]
 }
